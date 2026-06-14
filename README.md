@@ -13,7 +13,7 @@ In mid-market corporate accounting structures, manual processing of ledger logs 
 * `sql_queries/02_cohort_revenue_aggregation.sql`: Implements multi-tier strategic client segment structures.
 * `sql_queries/03_advanced_window_running_totals.sql`: Utilizes multi-partition window vectors to build historical running balances across sequential fiscal quarters.
 
-## 📈 Key Business Insights Achieved
+## Key Business Insights Achieved
 1. **Identified Revenue Leakage:** Isolated baseline account anomalies representing latent client churn liabilities.
 2. **Velocity Forecasting:** Constructed cumulative running totals that pinpointed exactly which enterprise tiers crossed core margin goals within 2 quarters.
 3. **Resource Re-allocation:** Segmented account bases into 3 distinct operational buckets, enabling customer success teams to re-allocate accounts strategically.
